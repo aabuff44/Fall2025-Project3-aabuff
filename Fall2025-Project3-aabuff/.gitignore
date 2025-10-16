@@ -1,0 +1,12 @@
+# Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.db
+appsettings.*.json
+secrets.json
+SecretManager/
