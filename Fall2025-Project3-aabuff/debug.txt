@@ -1,0 +1,4 @@
+=== CREATE POST CALLED ===
+ActorId: 1
+MovieId: 2
+ModelState.IsValid: False
